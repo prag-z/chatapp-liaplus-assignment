@@ -59,7 +59,7 @@ REACT_APP_LOCALHOST_KEY=chat-app-current-user
 REACT_APP_API_URL=http://localhost:5000
 ```
 
-### **2.4 Start the Backend Server**
+### **2.4 Start the Frontend**
 ```sh
 npm start
 ```
