@@ -7,7 +7,7 @@ A real-time chat application built with **React, Node.js, Express, MongoDB, and 
 
 ## **Setup Instructions** 
 
-### **1. Clone the Repository**  
+## **1. Clone the Repository**  
 ```sh
 git clone https://github.com/prag-z/chatapp-liaplus-assignment.git
 cd chatapp-liaplus-assignment
