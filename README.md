@@ -22,7 +22,7 @@ cd server
 
 ### **2.2 Install Dependencies**
 ```sh
-npm Install
+npm install
 ```
 
 ### **2.3 Configure Environment Variables**
@@ -49,7 +49,7 @@ cd ../client
 
 ### **2.2 Install Dependencies**
 ```sh
-npm Install
+npm install
 ```
 
 ### **2.3 Configure Environment Variables**
